@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOps Projects <br><br>🤝 I’m looking for help with DevOps and Automation projects<br>🌱 I’m currently learning DevOps Tools<br>💬 Ask me about Cloud Computing/ Openstack.
+🔭 I’m currently working on DevOps Projects <br> 🤝 I’m looking for help with DevOps and Automation projects<br>🌱 I’m currently learning DevOps Tools<br>💬 Ask me about Cloud Computing/ Openstack.
 
 
 # 💻 Tech Stack:
