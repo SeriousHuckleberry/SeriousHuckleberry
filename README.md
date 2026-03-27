@@ -12,11 +12,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SeriousHuckleberry&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeriousHuckleberry&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeriousHuckleberry&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SeriousHuckleberry&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-![GitHub streak](https://streak-stats.demolab.com?user=SeriousHuckleberry&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousHuckleberry&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousHuckleberry&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
